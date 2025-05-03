@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/r-huijts-firstcycling-mcp-badge.png)](https://mseep.ai/app/r-huijts-firstcycling-mcp)
+
 # FirstCycling MCP Server
 
 This is a Model Context Protocol (MCP) server that provides professional cycling data from FirstCycling. It allows you to retrieve comprehensive information about professional cyclists, race results, race details, and historical cycling data.
